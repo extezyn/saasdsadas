@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\\u0421\u002B\u002B\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{226A19AC-75C2-49B9-A708-ACA9517FAF95}|server.vcxproj|C:\\Projects\\\u0421\u002B\u002B\\server\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226A19AC-75C2-49B9-A708-ACA9517FAF95}|server.vcxproj|solutionrelative:server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "server.cpp",
+              "DocumentMoniker": "C:\\Projects\\\u0421\u002B\u002B\\server\\server.cpp",
+              "RelativeDocumentMoniker": "server.cpp",
+              "ToolTip": "C:\\Projects\\\u0421\u002B\u002B\\server\\server.cpp",
+              "RelativeToolTip": "server.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAHwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T07:25:08.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

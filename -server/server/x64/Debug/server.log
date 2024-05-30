@@ -1,0 +1,4 @@
+﻿  server.cpp
+C:\Projects\С++\server\server.cpp(52,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Projects\С++\server\server.cpp(82,9): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "RtlZeroMemory"
+  server.vcxproj -> C:\Projects\С++\server\x64\Debug\server.exe

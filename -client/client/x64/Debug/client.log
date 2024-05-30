@@ -1,0 +1,4 @@
+﻿  client.cpp
+C:\Projects\С++\client\client.cpp(49,68): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Projects\С++\client\client.cpp(86,9): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "RtlZeroMemory"
+  client.vcxproj -> C:\Projects\С++\client\x64\Debug\client.exe
